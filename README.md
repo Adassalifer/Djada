@@ -27,5 +27,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O projeto tem como objetivo a criação de uma aplicação com sons de instrumentos musicais.
-Você pode ver o projeto [clicando aqui]
+Você pode ver o projeto em:(https://djada.vercel.app/)
 <br>
